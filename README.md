@@ -1,0 +1,1 @@
+--> Basic spotify template using Vanilla JS
